@@ -1,0 +1,5 @@
+/relay
+/bin/
+/dist/
+docs/results/*.tmp
+.env
